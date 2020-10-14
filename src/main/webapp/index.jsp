@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>MyShuttle Login</title>
-    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+    <link rel="shrtcut icon" type="image/ico" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="App/Themes/Lumen/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="App/Modules/Core/Css/core.css">
     <link rel="stylesheet" type="text/css" href="Content/login.css">
