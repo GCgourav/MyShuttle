@@ -6,7 +6,7 @@ RUN set -x \
     && curl -fSL https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-5.1.40.tar.gz -o /home/mysql/mysql-connector.jar \
     && cd /home/mysql \
     && tar -xzvf mysql-connector.jar \
-    && pwd \
+    && pwd 
     && mkdir -p /usr/share/java \
     && mv /home/mysql/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar /usr/share/java/mysql-connector-java.jar \
     && cd /home \
